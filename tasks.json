@@ -1,0 +1,16 @@
+[
+{
+  "id": 1,
+  "description": "Estudar Spring Boot e API Rest",
+  "status": "in-progress",
+  "createdAt": "2026-10-08T21:02:46.682500300",
+  "updatedAt": "2026-10-08T21:04:27.984283400"
+},
+{
+  "id": 2,
+  "description": "Fazer exercícios de POO",
+  "status": "done",
+  "createdAt": "2026-10-08T21:02:58.803678900",
+  "updatedAt": "2026-10-08T21:04:32.924192400"
+}
+]
